@@ -1,0 +1,972 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add_magic",
+				"add_magic_show"
+			],
+			[
+				"base",
+				"base_url〔function〕"
+			],
+			[
+				"add_dlop",
+				"add_dlop_show"
+			],
+			[
+				"for",
+				"form_validation"
+			],
+			[
+				"magic",
+				"$magic_id〔variable〕"
+			],
+			[
+				"CI_C",
+				"CI_Controller〔class〕"
+			],
+			[
+				"CI_M",
+				"CI_Model〔class〕"
+			],
+			[
+				"end",
+				"endif〔keyword〕"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"pan",
+				"pancakes"
+			],
+			[
+				"scrip",
+				"scripts"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ph",
+				"$photo〔variable〕"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"find",
+				"find_by_id〔function〕"
+			],
+			[
+				"u",
+				"upload_directory〔variable〕"
+			],
+			[
+				"up",
+				"upload_directory〔variable〕"
+			],
+			[
+				"id",
+				"photo_id〔variable〕"
+			],
+			[
+				"photo",
+				"$photos〔variable〕"
+			],
+			[
+				"s",
+				"submit"
+			],
+			[
+				"me",
+				"$message〔variable〕"
+			],
+			[
+				"_",
+				"$_POST〔variable〕"
+			],
+			[
+				"Ph",
+				"Photo〔class〕"
+			],
+			[
+				"unset",
+				"unset〔function〕"
+			],
+			[
+				"tmp_",
+				"tmp_path"
+			],
+			[
+				"people",
+				"people_in_cafe"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tm",
+				"tmp_path"
+			],
+			[
+				"clean",
+				"$clean_properties〔variable〕"
+			],
+			[
+				"properties",
+				"$properties_pairs〔variable〕"
+			],
+			[
+				"pro",
+				"$properties〔variable〕"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"db",
+				"$db_fields〔variable〕"
+			],
+			[
+				"prop",
+				"property_exists〔function〕"
+			],
+			[
+				"ma",
+				"match_played"
+			],
+			[
+				"pe",
+				"personInfo"
+			],
+			[
+				"pla",
+				"$player_success〔variable〕"
+			],
+			[
+				"play",
+				"$player_position〔variable〕"
+			],
+			[
+				"playe",
+				"$player_match_played〔variable〕"
+			],
+			[
+				"date",
+				"date_birth"
+			],
+			[
+				"pers",
+				"$person_name〔variable〕"
+			],
+			[
+				"cafe_n",
+				"$cafe_number_bartenders〔variable〕"
+			],
+			[
+				"number",
+				"number_of_clients〔variable〕"
+			],
+			[
+				"c",
+				"clients〔variable〕"
+			],
+			[
+				"M",
+				"Music〔class〕"
+			],
+			[
+				"ca",
+				"$cafe_cap〔variable〕"
+			],
+			[
+				"sa",
+				"$salary〔variable〕"
+			],
+			[
+				"fav",
+				"$fav_mus〔variable〕"
+			],
+			[
+				"mus",
+				"$mus_genre〔variable〕"
+			],
+			[
+				"art",
+				"$art_name〔variable〕"
+			],
+			[
+				"in",
+				"include_once"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"pr",
+				"$programmer〔variable〕"
+			],
+			[
+				"la",
+				"$lawyer〔variable〕"
+			],
+			[
+				"h",
+				"$hours〔variable〕"
+			],
+			[
+				"n",
+				"number_of_cases_lost〔variable〕"
+			],
+			[
+				"num",
+				"number_of_cases_won〔variable〕"
+			],
+			[
+				"nu",
+				"number_of_cases_won"
+			],
+			[
+				"numb",
+				"number_of_cases_lost"
+			],
+			[
+				"lawyer",
+				"lawyer_fees"
+			],
+			[
+				"lawye",
+				"$lawyer_ncw〔variable〕"
+			],
+			[
+				"i",
+				"iWork〔interface〕"
+			],
+			[
+				"poi",
+				"$points〔variable〕"
+			],
+			[
+				"fina",
+				"$final_profit〔variable〕"
+			],
+			[
+				"da",
+				"$days〔variable〕"
+			],
+			[
+				"trave",
+				"$travel_expenses〔variable〕"
+			],
+			[
+				"coef",
+				"$coef_practice〔variable〕"
+			],
+			[
+				"include",
+				"include_once〔keyword〕"
+			],
+			[
+				"sle",
+				"sleeping_in_hotels"
+			],
+			[
+				"co",
+				"$coef_work〔variable〕"
+			],
+			[
+				"coe",
+				"coef_practice"
+			],
+			[
+				"date_",
+				"date_2"
+			],
+			[
+				"wo",
+				"workingmanInfo"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"a",
+				"age"
+			],
+			[
+				"Cafe",
+				"CafePeople〔class〕"
+			],
+			[
+				"the",
+				"$the_message〔variable〕"
+			],
+			[
+				"mo",
+				"move_uploaded_file"
+			],
+			[
+				"uplo",
+				"$upload_errors〔variable〕"
+			],
+			[
+				"html",
+				"htmlentities〔function〕"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"lo",
+				"$location〔variable〕"
+			],
+			[
+				"_s",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"u_",
+				"u_name"
+			],
+			[
+				"un",
+				"unit_id〔variable〕"
+			],
+			[
+				"sub",
+				"sub_name"
+			],
+			[
+				"su",
+				"$sub_name〔variable〕"
+			],
+			[
+				"num_",
+				"number_hours"
+			],
+			[
+				"School",
+				"SchoolPeople〔class〕"
+			],
+			[
+				"sc",
+				"school_name"
+			],
+			[
+				"strt",
+				"strtolower〔function〕"
+			],
+			[
+				"array_key",
+				"array_key_exists〔function〕"
+			],
+			[
+				"us",
+				"user_found"
+			],
+			[
+				"cha",
+				"changeDisplayResolution"
+			],
+			[
+				"size",
+				"$sizeX〔variable〕"
+			],
+			[
+				"S",
+				"ShowInfo"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"Show",
+				"ShowProp"
+			],
+			[
+				"batter",
+				"battery_duration"
+			],
+			[
+				"mysqli_c",
+				"mysqli_connect〔function〕"
+			],
+			[
+				"issue",
+				"issueee_cover"
+			],
+			[
+				"check",
+				"$check_file_upload〔variable〕"
+			],
+			[
+				"che",
+				"$check_file_upload〔variable〕"
+			],
+			[
+				"set_",
+				"set_value〔function〕"
+			],
+			[
+				"pu",
+				"publication_form_options"
+			],
+			[
+				"pub",
+				"$publication〔variable〕"
+			],
+			[
+				"Workin",
+				"WorkingMan〔class〕"
+			],
+			[
+				"require",
+				"require_once〔keyword〕"
+			],
+			[
+				"d",
+				"DB_TABLE〔constant〕"
+			],
+			[
+				"DB",
+				"DB_TABLE_PK"
+			],
+			[
+				"val",
+				"validation_errors〔function〕"
+			],
+			[
+				"publ",
+				"$publication_form_options〔variable〕"
+			],
+			[
+				"publication",
+				"publication_form_options"
+			],
+			[
+				"ht",
+				"html_escape"
+			],
+			[
+				"publicatio",
+				"$publication_form_options〔variable〕"
+			],
+			[
+				"issu",
+				"issue_number〔variable〕"
+			],
+			[
+				"shoe",
+				"$shoes_broken〔variable〕"
+			],
+			[
+				"com",
+				"$computer_broken〔variable〕"
+			],
+			[
+				"computer",
+				"computer_broken"
+			],
+			[
+				"sh",
+				"$shoes_broken〔variable〕"
+			],
+			[
+				"shoes",
+				"$shoes_delivered〔variable〕"
+			],
+			[
+				"bread",
+				"$bread_delivered〔variable〕"
+			],
+			[
+				"prod",
+				"$product_expenses〔variable〕"
+			],
+			[
+				"dat",
+				"$date1〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "rei",
+		"selected_items":
+		[
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ins",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Abacus: align selection"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/THE-Site/Milena-mm-site"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/CodeIgniter-3.0.1/application/views/magic/update_magic.php",
+		"/D/xampp/htdocs/CodeIgniter-3.0.1/application/models/dlops_model.php",
+		"/D/xampp/htdocs/CodeIgniter-3.0.1/application/models/magics_model.php",
+		"/D/xampp/htdocs/CodeIgniter-3.0.1/application/views/magic/add_magic_show.php",
+		"/D/xampp/htdocs/CodeIgniter-3.0.1/application/config/autoload.php",
+		"/D/xampp/htdocs/CodeIgniter-3.0.1/application/views/dlops/add_dlop_show.php",
+		"/D/xampp/htdocs/CodeIgniter-3.0.1/application/controllers/dlops.php",
+		"/D/xampp/htdocs/CodeIgniter-3.0.1/application/views/magic/single_magic.php",
+		"/D/xampp/htdocs/CodeIgniter-3.0.1/application/views/magic/all_magics.php",
+		"/D/xampp/htdocs/CodeIgniter-3.0.1/application/controllers/magics.php",
+		"/D/xampp/htdocs/CodeIgniter-3.0.1/application/views/magics/all_magics.php",
+		"/D/xampp/htdocs/CodeIgniter-3.0.1/application/views/dlops/all_dlops.php",
+		"/D/xampp/htdocs/CodeIgniter-3.0.1/application/config/database.php",
+		"/D/xampp/htdocs/CI_UDEMY/CI_Udemy/application/controllers/users.php",
+		"/D/xampp/htdocs/CI_UDEMY/CI_Udemy/application/views/admin_home.php",
+		"/D/xampp/htdocs/CI_UDEMY/CI_Udemy/application/views/home_view.php",
+		"/D/xampp/htdocs/CI_UDEMY/CI_Udemy/application/config/autoload.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/css/style.css",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/js/scripts.js",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/edit_photo.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/photos.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/adminincludes/photo.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/adminincludes/admin_header.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/adminincludes/admin_footer.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/adminincludes/admin_content.php",
+		"/D/xampp/htdocs/CI_UDEMY/CI_Udemy/application/config/config.php",
+		"/D/xampp/htdocs/CI_UDEMY/CI_Udemy/application/controllers/home.php",
+		"/D/xampp/htdocs/CI_UDEMY/CI_Udemy/application/views/user_view.php",
+		"/D/xampp/htdocs/CI_UDEMY/CI_Udemy/application/models/user_model.php",
+		"/D/xampp/htdocs/CI_UDEMY/CI_Udemy/application/config/database.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/adminincludes/init.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/upload.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/images/dir.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/01_task/includes/music.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/01_task/includes/client.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/01_task/includes/cafe.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/01_task/includes/cafepeople.php",
+		"/D/xampp/htdocs/HW_2.-OOP---Nasledyavane/school-software.sublime-project",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/01_task/includes/bartender.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/01_task/index.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/index.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/adminincludes/db_object.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/login.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/adminincludes/user.php",
+		"/D/xampp/htdocs/OOP&MVC/CW/04_revision/sport.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/01_task/includes/header.php",
+		"/D/xampp/htdocs/OOP&MVC/CW/03_Class_Extends_&_Interface/gsm.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/01_task/includes/init.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/02_task/includes/lawyer.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/02_task/index.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/01_task/footer.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/01_task/init.php ",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/adminincludes/database.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/02_task/musician.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/02_task/tester.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/02_task/lawyer.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/02_task/init.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/01_task",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/02_task/header.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/02_task/interfaces.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/02_task/workingman.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/02_task/footer.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/HW_phpOOP-MVC/03_HW-Interfaces/01_task/cafe.php",
+		"/D/xampp/htdocs/UDEMY/basic files/file.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/logout.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/adminincludes/sessions.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/adminincludes/function.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/adminincludes/new.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/02_HW - Inheritance/tester.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/02_HW - Inheritance/includes/database.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/02_HW - Inheritance/includes/subjects.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/02_HW - Inheritance/includes/school.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/02_HW - Inheritance/includes/init.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/02_HW - Inheritance/index.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/02_HW - Inheritance/includes/schoolpeople.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/02_HW - Inheritance/includes/schoolunits.php",
+		"/D/xampp/htdocs/OOP&MVC/CW/02_Class_extend/working_man.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/02_HW - Inheritance/subjects.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/02_HW - Inheritance/schoolpeople.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/02_HW - Inheritance/school.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/02_HW - Inheritance/header.php",
+		"/D/xampp/htdocs/OOP&MVC/HW_phpOOP-MVC/02_HW - Inheritance/footer.php",
+		"/D/xampp/htdocs/OOP&MVC/CW/03_Class_Extends_&_Interface/02.php",
+		"/D/xampp/htdocs/OOP&MVC/CW/01_intro/private_properties.php",
+		"/D/xampp/htdocs/OOP&MVC/CW/03_Class_Extends_&_Interface/01.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/comment.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/user.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/adminincludes/admin_top_nav.php",
+		"/D/xampp/htdocs/UDEMY/gallery/admin/adminincludes/admin_sidebar_nav.php",
+		"/D/xampp/htdocs/UDEMY/gallery/includes/admin_content.php",
+		"/D/xampp/htdocs/UDEMY/opp/index.php",
+		"/D/xampp/htdocs/UDEMY/gallery/includes/navigation.php",
+		"/D/xampp/htdocs/UDEMY/blog/admin/index-rtl.html",
+		"/D/xampp/htdocs/ci/tester/application/views/bootstrap/index.html",
+		"/D/xampp/htdocs/ci/tester/application/views/bootstrap/footer.php",
+		"/D/xampp/htdocs/ci/tester/application/views/magazine_form.php",
+		"/D/xampp/htdocs/ci/tester/application/controllers/magazine.php",
+		"/D/xampp/htdocs/ci/tester/application/views/bootstrap/header.php",
+		"/D/xampp/htdocs/ci/tester/system/database/DB_driver.php",
+		"/D/xampp/htdocs/ci/tester/css/bootstrap.min.css",
+		"/D/xampp/htdocs/ci/tester/system/core/Common.php",
+		"/D/xampp/htdocs/ci/tester/application/config/database.php",
+		"/D/xampp/htdocs/ci/tester/application/views/css/main.css",
+		"/D/xampp/htdocs/ci/tester/application/config/constants.php",
+		"/D/xampp/htdocs/ci/tester/application/config/config.php",
+		"/D/xampp/htdocs/ci/tester/application/views/css/bootstrap-responsive.min.css",
+		"/D/xampp/htdocs/ci/css/main.css",
+		"/D/xampp/htdocs/ci/tester/application/views/bootstrap/nav.php",
+		"/D/xampp/htdocs/ci/tester/css/main.css",
+		"/D/xampp/htdocs/ci/tester/application/config/autoload.php",
+		"/D/practice/active/Lynda. Up and Running with PHP CodeIgniter/Exercise Files/Exercise Files/03_04/application/config/config.php",
+		"/D/practice/active/Lynda. Up and Running with PHP CodeIgniter/Exercise Files/Exercise Files/04_03/css/main.css",
+		"/D/practice/active/Lynda. Up and Running with PHP CodeIgniter/Exercise Files/Exercise Files/04_03/css/bootstrap-responsive.css",
+		"/D/practice/active/Lynda. Up and Running with PHP CodeIgniter/Exercise Files/Exercise Files/04_03/css/bootstrap.css",
+		"/D/practice/active/Lynda. Up and Running with PHP CodeIgniter/Exercise Files/Exercise Files/04_03/application/controllers/magazine.php",
+		"/D/xampp/htdocs/ci/tester/application/views/magazine_form_success.php",
+		"/D/xampp/htdocs/ci/tester/application/models/publication.php",
+		"/D/xampp/htdocs/ci/tester/application/views/magazines.php",
+		"/D/xampp/htdocs/ci/tester/application/views/magazine.php",
+		"/D/xampp/htdocs/OOP&MVC/CW/02_Class_extend/01.php",
+		"/D/xampp/htdocs/OOP&MVC/CW/02_Class_extend/man.php",
+		"/D/xampp/htdocs/OOP&MVC/CW/02_Class_extend/02.php",
+		"/D/xampp/htdocs/OOP&MVC/CW/02_Class_extend/dog.php",
+		"/D/xampp/htdocs/OOP&MVC/CW/02_Class_extend/static.php",
+		"/D/xampp/htdocs/ci/tester/application/models/issue.php",
+		"/D/xampp/htdocs/ci/tester/application/core/my_model.php",
+		"/D/xampp/htdocs/ci/tester/application/config/routes.php",
+		"/D/xampp/htdocs/ci/application/config/autoload.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"products.php",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"descr",
+			"public",
+			"public\n",
+			"();\n",
+			"self::",
+			"self",
+			"find_this",
+			"self::",
+			"properties()",
+			"bartender",
+			"i",
+			"bartender",
+			"	$",
+			"!",
+			"!\n",
+			"input",
+			"label",
+			"div",
+			"form",
+			"include",
+			"img",
+			"header",
+			"publicatons",
+			"public function __set($name, $value) {\n		echo \"Setting \". $this->name . \"`s '$name' to '$value'<br>\";\n		if (property_exists($this, $name)) \n		{\n			$this -> $name = $value;\n			\n		}\n	}\n	public function __get($var) \n	{\n		echo \"Getting \" . $var;\n		return $this->$var;\n	}",
+			"</p>",
+			"<p>",
+			"name",
+			"/_",
+			"/images",
+			"\\images",
+			"old",
+			"ivan",
+			"../",
+			"src=\"",
+			"h6",
+			"nav",
+			"div",
+			"z-index",
+			"bitter",
+			"container",
+			"h2",
+			"../images",
+			"src=\"",
+			"../images",
+			"..images",
+			" a ",
+			"a",
+			"../images",
+			"img",
+			"src=\"",
+			"social",
+			"src=\"",
+			"img",
+			"../images",
+			"images",
+			"../images",
+			"img",
+			"img-",
+			"src",
+			"h4",
+			"/",
+			"src=\"",
+			"../images",
+			"hr /\n",
+			";\n",
+			"h3",
+			"address",
+			"3",
+			"echo",
+			" $",
+			"$conn",
+			"/>\";;",
+			"\n$",
+			"4",
+			">\n",
+			"}\n",
+			"4",
+			"<?php \nsession_start();\nif (!empty($_POST)) {\n	$_SESSION['card_info'] = $_POST['card_info'];\n	$_SESSION['money_account'] = $_POST['money_account'];\n	if (!empty($_SESSION['money_account']) && !empty($_SESSION['card_info'])) {\n	$money_account = $_SESSION['money_account'];\n	$count = count($_SESSION['products']);\n	$products = $_SESSION['products'];\n	$quantity = $_SESSION['quantity'];\n	$sum_products = 0;\n	echo \"Вашата количка съдържа -\"\n	?>\n	<ol>\n		<?php\n		for ($i=0; $i < $count; $i++) { \n			$product_price[$i] = explode('_', $products[$i]);\n				//var_dump($product_price[$i]);\n			$product_total[$i] = $product_price[$i][1]*$quantity[$i];\n			$sum_products = $sum_products + $product_total[$i];\n			echo \"<li>\".$product_price[$i][0].\" - \".$quantity[$i].\" броя</li>\";\n		}\n		?>\n	</ol>\n	<p>На обща стойност	<?php echo $sum_products.\" лева\";?></p>\n	<?php\n	if ($money_account >= $sum_products) {\n		$result = $money_account - $sum_products;\n		echo \"Остатъка по вашата сметка е \". $result.\" лева\".\"<br />\";\n		echo \"<br />\";\n		echo \"<a href='payment.php'>Потвърди покупката!</a>\";\n		echo \" \";\n		echo \"<a href='unset.php'>Откажи покупката!</a>\";\n\n	}\n	else {\n		echo \"Недостатъчна наличност по сметката Ви!\".\"<br />\";\n		echo \"<br />\";\n		echo \"<a href='logout.php'>Излизане</a>\";\n	}\n}\nelse {\n	if ($_SESSION['card_info'] === '') {\n		$err_card = \"<div>Моля попълнете номера на картата си!</div>\";\n	}\n	if ($_SESSION['money_account'] === '') {\n		$err_account = \"<div>Моля попълнете наличността по сметката си!</div>\";\n	} \n}\n\n}\n\n	?>\n<!DOCTYPE html>\n	<html lang=\"en\">\n	<head>\n		<meta charset=\"UTF-8\">\n		<title>Дебитна/кредитна карта</title>\n	</head>\n	<body>\n		<form method=\"post\" action=\"card_info.php\">\n			<p>номер на кредитната карта</p>\n			<input type=\"text\" name=\"card_info\" value=\"<?php if (isset($_SESSION['card_info'])) {echo $_SESSION['card_info'];\n		}?>\">\n		<?php if (isset($err_card)) {\n			echo $err_card;\n		}?>\n		<p>налична сума</p>\n		<input type=\"text\" name=\"money_account\" value=\"<?php if (isset($_SESSION['money_account'])) {echo $_SESSION['money_account'];?>\">\n		<?php if (isset($err_account)) {\n			echo $err_account;\n		}?>	\n			<!--regex for credit card number-->\n		<input type=\"submit\" value=\"Въведи\">\n	</form>\n	</body>\n</html>\n\n",
+			"3",
+			"1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"description",
+			"private",
+			"static::",
+			"",
+			"clean_properties()",
+			"client",
+			"p",
+			"client",
+			"require_once",
+			"",
+			"model",
+			"assets",
+			"images",
+			"georgi",
+			"",
+			" ",
+			"src=\"<?php echo get_template_directory_uri()?>/",
+			"h4",
+			"ul#menu",
+			"section",
+			"images",
+			"src=\"<?php echo get_template_directory_uri()?>/",
+			"images",
+			"src=\"<?php echo get_template_directory_uri()?>/",
+			"<?php echo get_template_directory_uri()?>/",
+			"images",
+			"h5",
+			"src=\"<? echo get_template_directory_uri()?>/",
+			"images",
+			"hr",
+			"h4",
+			"$connect"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mm-site.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\web_downloads\\BGO task\\images\\emma_stone.png"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
